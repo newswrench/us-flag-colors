@@ -1,0 +1,27 @@
+{
+  "name": "@newswrench/us-flag-colors",
+  "version": "1.0.0",
+  "description": "Official colors of the United States flag.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/newswrench/us-flag-colors.git"
+  },
+  "keywords": [
+    "United",
+    "States",
+    "flag",
+    "RGB",
+    "CMYK",
+    "color"
+  ],
+  "author": "James Devlin <hacksalot@indevious.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hacksalot/us-flag-colors/issues"
+  },
+  "homepage": "https://github.com/hacksalot/us-flag-colors#readme"
+}
