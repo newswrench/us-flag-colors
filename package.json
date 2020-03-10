@@ -1,6 +1,6 @@
 {
   "name": "@newswrench/us-flag-colors",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Official colors of the United States flag.",
   "main": "index.js",
   "scripts": {
@@ -21,7 +21,7 @@
   "author": "James Devlin <hacksalot@indevious.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/hacksalot/us-flag-colors/issues"
+    "url": "https://github.com/newswrench/us-flag-colors/issues"
   },
-  "homepage": "https://github.com/hacksalot/us-flag-colors#readme"
+  "homepage": "https://github.com/newswrench/us-flag-colors#readme"
 }
